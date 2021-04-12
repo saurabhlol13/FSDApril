@@ -4,6 +4,7 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 text2.txt
+target/
 
 # Other files and folders
 .settings/
